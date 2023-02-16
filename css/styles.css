@@ -16,7 +16,7 @@ body{
     margin-bottom: 10px;
     outline: none;
     position: relative;
-    top: 9px;
+    top: 19%;
     width: 450px;
     font-size: 14px;
     
@@ -33,7 +33,7 @@ body{
     fill: currentColor;    
     line-height: 24px;
     position: relative;
-    top: 13px;  
+    top: 30%;  
 
 }
 .searchsection{
@@ -58,16 +58,16 @@ body{
     height: 25px;
     width: 25px;
     position: relative;
-    left: 315px;
-    bottom: 32px;
+    left: 66%;
+    bottom: 73.8%;
  }
 
  .mic{
     height: 30px;
     width: 30px;
     position: relative;
-    left: 250px;
-    bottom: 29px;
+    left: 52%;
+    bottom: 66.92%;
  }
 
  .buttonn{
