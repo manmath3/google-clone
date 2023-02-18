@@ -55,6 +55,11 @@ body{
     width: auto;
     max-width: 584px;
 }
+.ggkk:hover{
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    border-color: rgba(223,225,229,0);
+}
  .swi{
     display: flex;
     
@@ -116,7 +121,7 @@ body{
     height: 18px;
     margin-left: 10px;
     margin-right: 10px;
-    /* margin: 10px 8px; */
+    
     
     
  }
